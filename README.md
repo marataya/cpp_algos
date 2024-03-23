@@ -1,4 +1,7 @@
 # Codeforces Problems
 
 ## Divide It!
-![img.png](divide_it.png)
+![img.png](img/divide_it.png)
+
+# Merge It!
+![img.png](img/merge_it.png)
